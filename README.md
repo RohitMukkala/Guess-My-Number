@@ -1,21 +1,28 @@
 # Guess My Number
 
-A simple number guessing game where the player tries to guess a randomly generated number within a certain range.
+Welcome to the **Guess My Number** game! This is a fun and interactive number guessing game where you try to guess the number the computer has randomly selected.
 
-## Getting Started
+![Guess My Number](https://rohitmukkala.github.io/Guess-My-Number/)
 
-These instructions will help you set up the project locally for development and testing.
+## How to Play
 
-### Prerequisites
+1. **Start the Game**: Click on the link [Guess My Number](https://rohitmukkala.github.io/Guess-My-Number/) to start playing.
+2. **Make a Guess**: Enter your guess in the input field and click "Check!" to see if you've guessed the correct number.
+3. **Feedback**: The game will tell you if your guess is too high, too low, or correct.
+4. **Winning**: If you guess the correct number, you'll see a congratulatory message, and the game will reveal the number.
+5. **Play Again**: Click on the "Again!" button to reset the game and play another round.
 
-Make sure you have the following installed:
+## Features
 
-- [Node.js](https://nodejs.org/) (if applicable)
-- [Python](https://www.python.org/) (if applicable)
+- **Random Number Generation**: The game randomly selects a number between 1 and 20 each time you play.
+- **User Interaction**: Immediate feedback on whether your guess is too high, too low, or correct.
+- **Score Tracking**: Keep track of your score based on the number of attempts.
+- **Responsive Design**: Enjoy a seamless experience across all devices.
 
-### Installation
+## Installation
 
-1. Clone the repository:
+To run this project locally, follow these steps:
+
+1. **Clone the repository**:
    ```bash
    git clone <repository-url>
-   ```
