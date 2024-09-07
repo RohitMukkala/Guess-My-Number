@@ -2,7 +2,6 @@
 
 Welcome to the **Guess My Number** game! This is a fun and interactive number guessing game where you try to guess the number the computer has randomly selected.
 
-![Guess My Number](https://rohitmukkala.github.io/Guess-My-Number/)
 
 ## How to Play
 
